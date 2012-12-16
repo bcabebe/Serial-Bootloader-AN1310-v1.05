@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/DeviceWindow" >
+        <file>img/icon.ico</file>
+        <file>img/open.png</file>
+        <file>img/clear.png</file>
+    </qresource>
+</RCC>
