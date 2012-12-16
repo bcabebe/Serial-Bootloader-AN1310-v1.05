@@ -1,0 +1,41 @@
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+############
+# Mac crap
+############
+.DS_Store
+
+
+# Compiled Object files
+# *.slo
+# *.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+# *.dylib
+
+# Compiled Static libraries
+# *.lai
+# *.la
+*.a
+
+# Executables
+*.exe
+
+# MPLAB Projects and Workspaces
+*.mcp
+*.mcw
+
+# Sublime Projects
+*.sublime-project
+*.sublime-workspace
